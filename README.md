@@ -12,6 +12,14 @@ For data confidentiality reasons, the data files have not been included.
 1. LULC_LAP_EDA: Exploration of WOH specific LAP data that has been spatially joined with Land Use data given by DEP, aggregation of land use types
 1. Corr_QCEW_LULC_LAP: Computation of correlation values between WOH counties and LAP acreage for each land use
 
+# Requirements
+* Python 3
+  * numpy
+  * pandas
+  * geopandas
+  * matplotlib
+  * seaborn
+
 # Team
 * Asnat Ghebremedhin
 * Angelia Lau
