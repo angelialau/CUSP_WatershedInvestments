@@ -11,6 +11,7 @@ For data confidentiality reasons, the data files have not been included.
 1. agri_census_data: Exploration of US Department of Agriculture 5-yr agriculture census data for West Of Hudson (WOH) counties
 1. LULC_LAP_EDA: Exploration of WOH specific LAP data that has been spatially joined with Land Use data given by DEP, aggregation of land use types
 1. Corr_QCEW_LULC_LAP: Computation of correlation values between WOH counties and LAP acreage for each land use
+1. Occupation_Analysis: Exploration of NYS and WOH employment and industry trends in the years 2000-2018
 
 # Requirements
 * Python 3
