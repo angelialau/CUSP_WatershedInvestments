@@ -36,11 +36,7 @@ Mentor: Prof. Huy T. Vo
 ## Directory Structure
 
     ├── README.md
-    ├── data
     ├── notebooks
-    ├── output
-    ├── figures
-        └── QCEW_2000-2018
         
 ## Project websites
 Link to the project website: [NYC DEP Watershed Investments](https://pratikwatwani.github.io/cuspcapstone/)
