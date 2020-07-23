@@ -42,6 +42,6 @@ Mentor: Prof. Huy T. Vo
 ## Project websites
 
 [<img src="https://github.com/angelialau/CUSP_WatershedInvestments/blob/master/assets/website-homescreen.png" width = "400" align ="center" alt='Click to visit project website'>](https://pratikwatwani.github.io/cuspcapstone/) | 
-[<img src="https://github.com/angelialau/CUSP_WatershedInvestments/blob/master/assets/report.png" width = "400" align ="center" alt='Click to read our paper!>](https://app.gitbook.com/@pratik-watwani/s/economic-impacts-of-new-york-city-s-investment-in-/)
+[<img src="https://github.com/angelialau/CUSP_WatershedInvestments/blob/master/assets/report.png" width = "400" align ="center" alt='Click to read our paper!'>](https://app.gitbook.com/@pratik-watwani/s/economic-impacts-of-new-york-city-s-investment-in-/)
 
 
