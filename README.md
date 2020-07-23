@@ -1,5 +1,6 @@
-![NYU Center for Urban Science and Progress](http://github.com/angelialau/CUSP_WatershedInvestments/assets/nyu-cusp-logo.png)
-![NYC Department of Environmental Protection](http://github.com/angelialau/CUSP_WatershedInvestments/assets/NYCLogo.png)
+|<img src="https://github.com/angelialau/CUSP_WatershedInvestments/blob/master/assets/nyu-cusp-logo.png" width="300" margin-right="300"> | <img src="https://github.com/angelialau/CUSP_WatershedInvestments/blob/master/assets/159406043185310510.png" width="350">|
+| ------------- | ------------- |
+
 # CUSP Watershed Investments
 This repository contains the notebooks which were utilized for exploratory data analysis in the 2020 CUSP Capstone project: Economic Impacts of New York City’s Investment in Water Supply.
 
@@ -39,5 +40,8 @@ Mentor: Prof. Huy T. Vo
     ├── notebooks
         
 ## Project websites
-Link to the project website: [NYC DEP Watershed Investments](https://pratikwatwani.github.io/cuspcapstone/)
-Link to the project report: [NYC DEP Watershed Investments - Report](https://app.gitbook.com/@pratik-watwani/s/economic-impacts-of-new-york-city-s-investment-in-/)
+
+[<img src="https://github.com/angelialau/CUSP_WatershedInvestments/blob/master/assets/website-homescreen.png" width = "400" align ="center" alt='Click to visit project website'>](https://pratikwatwani.github.io/cuspcapstone/) | 
+[<img src="https://github.com/angelialau/CUSP_WatershedInvestments/blob/master/assets/report.png" width = "400" align ="center" alt='Click to read our paper!>](https://app.gitbook.com/@pratik-watwani/s/economic-impacts-of-new-york-city-s-investment-in-/)
+
+
